@@ -8,4 +8,4 @@ Then Selenium will automatically enter the information you provided into AutoChe
 I deliberately made a basic looking GUI to resemble what I do at my job to help better visualize my proposal. 
 For potential legal issues, I won't design a more detailed GUI.
 
-<img src=https://media.giphy.com/media/KzKXinNpPTKIoAquup/giphy.gif width=400><br>
+<img src=https://media.giphy.com/media/KzKXinNpPTKIoAquup/giphy.gif width=700><br>
