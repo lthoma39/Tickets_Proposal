@@ -5,3 +5,4 @@ I created this idea where we can use a verify button to double check a license p
 Basically after entering a license plate, if you hit the verify button AutoCheck.com will open.
 Then Selenium will automatically enter the information you provided into AutoCheck then verify if it's correct.
 
+<img src=https://media.giphy.com/media/KzKXinNpPTKIoAquup/giphy.gif width=200><br>
